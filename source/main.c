@@ -21,7 +21,7 @@ int main(void) {
 
     /* Insert your solution below */
     while (1) {
-        while (loop >= 0){
+        /*while (loop >= 0){
             if (tmpA & 0x01)
                 cnt++;
             
@@ -35,6 +35,6 @@ int main(void) {
         
         PORTC = cnt;
 
-    }
+    }*/
     return 1;
 }
