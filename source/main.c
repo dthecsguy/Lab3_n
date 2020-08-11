@@ -33,8 +33,8 @@ int main(void) {
             loop--;
         }
         
-        PORTC = cnt;
+        PORTC = cnt;*/
 
-    }*/
+    }
     return 1;
 }
