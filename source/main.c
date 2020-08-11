@@ -32,7 +32,6 @@ int main(void) {
             tmpB = tmpB >> 1;
             loop--;
         }
-        printf("%u", cnt);
         PORTC = cnt;
 
     }
